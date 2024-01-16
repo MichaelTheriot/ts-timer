@@ -1,1 +1,1 @@
-export { default as timer } from "./timer.ts";
+export { default } from "./timer.ts";
